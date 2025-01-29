@@ -193,7 +193,7 @@
     <Content Include="Images\img.jpg" />
     <Content Include="Images\login3.jpg" />
     <Content Include="Images\NoImage.png" />
-    <Content Include="Index.html" />
+    <Content Include="index.html" />
     <Content Include="itextsharp.dll" />
     <Content Include="TemplateFiles\css\bootstrap.css" />
     <Content Include="TemplateFiles\css\font-awesome.min.css" />
